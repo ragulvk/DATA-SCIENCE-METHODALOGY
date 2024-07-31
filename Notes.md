@@ -1,18 +1,25 @@
-## Week 1
-__Six Steps of CRISP-DM__
-1. Business Understanding
-2. Data Understanding
-3. Data Preparation
-4. Data Modeling
-5. Evaluation
-6. Deployment
----
-**Business Understanding**
-- understanding your problems to solve, objective and goals
-**Analytical Approach**
-- descriptive, statistical analysis (Diagnostic), predictive (Forecasting), prescriptive
-**Data Requirements**
-- contents, format, define the cohorts
-**Data Collection**
-- from various available sources
-- eliminate redundant data
+## Week 2
+**Data Understanding**
+- descriptive statistics (univariate statistics, pairwise correlations, histogram)
+- statistical parameters
+- data quality (missing values, invalid or misleading values)
+- iterative data collection and data understanding
+**Data preparation**
+- cleansing data
+- transforming data
+- feature engineering (new column creation)
+- working with text analysis
+- literature review of potential feature
+**Modelling**
+- characteristics and purpose
+- use predictive or descriptive
+- machine learning training
+- understanding the questions at hand
+- select an analytic approach or method to solve the problem
+- obtain, understand, prepare and model the data
+- parameter tuning (optimization)
+**Evaluation**
+- does the questions answered
+- diagnostic measures (statistical significance)
+- by model perfomance and optimal model
+- ROC curve
